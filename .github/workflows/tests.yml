@@ -1,4 +1,4 @@
-on: [push, pull_request]
+on: ["pull_request"]
 name: CI
 env:
   GO_VERSION: 1.17.x
